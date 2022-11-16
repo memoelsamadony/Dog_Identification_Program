@@ -54,15 +54,20 @@ example : `pip install flask keras` or `py -m pip install numpy`
 ## Examples Using The Program
 Predicting dog breed :
 
+![image](https://user-images.githubusercontent.com/91777656/202276733-a9e77d04-a743-4af4-9329-9b2248c9915c.png)
+
 
 
 Predicting the most resembling dog breed for a human picture :
+
+![image](https://user-images.githubusercontent.com/91777656/202278112-43696e27-ae11-4bb8-810b-790410d6168d.png)
 
 
 
 
 Predicting that is neither a dog nor a human picture :
 
+![image](https://user-images.githubusercontent.com/91777656/202277655-c491117c-0c8b-4e59-aae6-b5b9dbafbcb4.png)
 
 
 
