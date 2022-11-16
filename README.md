@@ -35,7 +35,7 @@ The project is divided in three main sections (you will find more in the noteboo
 
 3. Final part of building the algorithm that utilizes the above sections into use , As it takes a picture(its path) from the user as input ,Prints whether its a dog or human, Prints the photo and Prints the dog breed of the dog if its a dog picture or if its a human picture it prints the most resembling dog breed to him.
 
-4. This project includes writing a blog post 
+4. This project includes writing a [blog](https://medium.com/@memolabib57/this-how-you-know-your-resembling-dog-breed-b00819141c02) post 
 
 
 ## Libraries 
